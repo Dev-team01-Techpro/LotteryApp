@@ -8,7 +8,7 @@ CREATE TABLE results(
 	ID SERIAL,
 	name VARCHAR(20),
 	days VARCHAR(10),
-	date DATE
+	date VARCHAR(20)
 );
 
 SELECT * FROM names;

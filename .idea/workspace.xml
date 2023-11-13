@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c2bf349-4a2e-4fe0-9a00-51d010813638" name="Changes" comment="Bug Fixed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/participantWorkbook.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/participantWorkbook.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lottery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LotteryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LotteryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,5 +164,16 @@
     <MESSAGE value="ADD: db connection" />
     <MESSAGE value="Bug Fixed" />
     <option name="LAST_COMMIT_MESSAGE" value="Bug Fixed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Lottery.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
